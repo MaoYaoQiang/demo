@@ -293,6 +293,8 @@ class Result {
     private Boolean success;
     private String msg;
 
+    private String code;
+
     public Result(boolean success, String msg) {
         this.success = success;
         this.msg = msg;
