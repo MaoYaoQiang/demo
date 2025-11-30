@@ -7,9 +7,10 @@ import java.util.concurrent.*;
 import java.util.stream.Collectors;
 
 /**
- * @Author:jihai
- * @Date:2022/5/26
- * @Description:
+ * 杀死演示
+ *当前分支是12分支
+ * @author admin
+ * @date 2025/11/30
  */
 public class KillDemo {
     /**
