@@ -13,6 +13,7 @@ import java.util.stream.Collectors;
  */
 public class KillDemo {
     /**
+     * 1.0测试
      * 启动10个用户线程
      * 库存6个
      * 生成一个合并队列，3个用户一批次
